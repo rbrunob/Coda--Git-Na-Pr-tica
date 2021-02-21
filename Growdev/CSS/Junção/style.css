@@ -1,0 +1,15 @@
+#quadro {
+    height: 300px;
+    width: 300px;
+    background-color: rgb(111, 173, 223);
+    margin: 50px auto;
+background-image: url(tattoo.jpg);
+opacity: 1;
+border-radius: 5px;
+}
+body {
+   
+    background-color: rgb(111, 173, 223);
+   
+background-image: url(tattoo.jpg);
+background-size:contain;
