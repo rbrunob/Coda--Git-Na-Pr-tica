@@ -1,5 +1,5 @@
-var nome = "Jair Ramos"; 
-var cargo = "Motorista"
+var nome = "Bruno Ramos"; 
+var cargo = "Desenvolvedor";
 
 var nomeHtml = document.getElementById("nome-no-html");
 var cargoHtml = document.getElementById("cargo-no-html")

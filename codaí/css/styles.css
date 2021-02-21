@@ -36,7 +36,7 @@ body{
     }
 
 .card-perfil {
-    background-color: rgba(122, 243, 252, 0.856);
+    background-color: rgba(255, 195, 104, 0.76);
     box-shadow: 0px 0px 5px; color: rgb(0, 0, 0);
 }
 
@@ -59,7 +59,7 @@ background-color: black ;
     border-radius: 20px;
     padding: 5px 25px;
     font-weight: 600;
-    background-color: #fff ;
+    background-color: rgb(255, 255, 255) ;
     color: rgb(0, 0, 0) !important; 
     
 }
@@ -105,7 +105,7 @@ padding: 15px 0px 15px 0px;
 
 @media (min-width: 900px) {
     .container-linear {
-        background: linear-gradient(to left, #fff 60%, #19DEF0 40%);
+        background:linear-gradient(to left, rgb(255, 255, 255) 60%, rgb(255, 195, 104) 40%);
     }
 
     .card-col {
